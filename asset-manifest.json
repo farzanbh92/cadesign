@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cadesign/static/css/main.8e4e3521.css",
+    "main.js": "/cadesign/static/js/main.9546939c.js",
+    "static/media/logo.png": "/cadesign/static/media/logo.6cd9717c1f50a996b70d.png",
+    "static/media/p4.JPG": "/cadesign/static/media/p4.328984e153579d41f50b.JPG",
+    "static/media/p6.JPG": "/cadesign/static/media/p6.cb77c88c9cb1cb914bf8.JPG",
+    "static/media/p5.jpg": "/cadesign/static/media/p5.b28e0072f2e0d5e2e50a.jpg",
+    "static/media/p3.JPG": "/cadesign/static/media/p3.88791ad6c2223f1a7271.JPG",
+    "static/media/p1.jpg": "/cadesign/static/media/p1.ad06966a5379b2248ac5.jpg",
+    "static/media/p2.jpg": "/cadesign/static/media/p2.b6ba1977405419d751fd.jpg",
+    "static/media/solid-Logo.png": "/cadesign/static/media/solid-Logo.56744a03f495ed67f2e6.png",
+    "static/media/CATIA-Logo.png": "/cadesign/static/media/CATIA-Logo.9f6c713833a3ebd1153b.png",
+    "static/media/whatsapp.png": "/cadesign/static/media/whatsapp.9fb7f0a3426d33149327.png",
+    "static/media/instagram.png": "/cadesign/static/media/instagram.cdaae8e9e7cd76e08247.png",
+    "static/media/telegram.png": "/cadesign/static/media/telegram.1a2302f29722f7dbcf94.png",
+    "index.html": "/cadesign/index.html",
+    "main.8e4e3521.css.map": "/cadesign/static/css/main.8e4e3521.css.map",
+    "main.9546939c.js.map": "/cadesign/static/js/main.9546939c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e4e3521.css",
+    "static/js/main.9546939c.js"
+  ]
+}
