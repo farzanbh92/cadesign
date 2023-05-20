@@ -1,0 +1,55 @@
+.main{
+    position: absolute;
+    left:0;
+    top:0;
+    background-color:rgb(255, 255, 255);
+    width:100%;
+}
+*{
+    box-sizing: border-box;
+}
+
+.header{
+    width:100%;
+    height:10vw;
+    float: left;
+}
+.article{
+    width:80%;
+    height:60vw;
+    float: left;
+}
+.aside{
+    width: 20%;
+    height:60vw;
+    border-left:solid 1px black;
+    float: left;
+    background-color: rgba(240,240,240,1);
+}
+
+.footer{
+  width:100%;
+  height:15vw;
+  float:left;
+  
+}
+
+@media screen and (max-width:700px){
+    .article , .aside{
+        width:100%;
+    }
+  .header{
+    height:25vw;
+  }
+  .article{
+    height:155vw;
+  }
+  .aside{
+    height:50vw;
+  }
+  .footer{
+    height:25vw;  
+  }
+}
+
+

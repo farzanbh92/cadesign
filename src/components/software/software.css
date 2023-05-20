@@ -1,0 +1,66 @@
+.software{
+    width:100%;
+    height:100%;
+    direction: rtl;
+}
+.catia{
+    width: 35%;
+    height:80%;
+    background-color:rgba(50,50,255,0.5);
+    margin-top: 7.5%;
+    margin-right: 10%;
+    float: right;
+    border-radius: 1vw;
+    overflow: auto;
+}
+.catia img{
+    width:100%;
+    height:30%;
+}
+.catia p{
+    font-size: 1.5vw;
+    text-align: justify;
+    padding:1.5vw;
+}
+.solidworks{
+    width: 35%;
+    height:80%;
+    background-color: rgba(255,50,50,0.5);
+    margin-top: 7.5%;
+    margin-right: 10%;
+    float: right;
+    border-radius: 1vw;
+    overflow: auto;
+}
+.solidworks img{
+    width:100%;
+    height:30%;
+}
+.solidworks p{
+    font-size: 1.5vw;
+    text-align: justify;
+    padding:1.5vw;
+}
+
+@media screen and (max-width:700px){
+    .catia{
+        width:80%;
+        height:60vw;
+        float:right; 
+    }
+    .solidworks{
+        width:80%;
+        height:60vw;
+        float:right;
+    }
+    .catia p{
+        font-size:2.8vw;
+        text-align: justify;
+        padding:2vw;
+}
+    .solidworks p{
+        font-size:2.8vw;
+        text-align: justify;
+        padding:2vw;
+}
+}

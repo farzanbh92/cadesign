@@ -1,0 +1,11 @@
+.models{
+    text-align: center;
+    font-size: 5vw;
+    background-color: rgba(207, 207, 0, 1);
+    width:80%;
+    height: 20vw;
+    margin-left: 10%;
+    margin-top:20vw;
+    padding-top: 5vw;
+    border-radius: 2vw;
+}
