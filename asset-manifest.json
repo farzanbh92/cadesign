@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cadesign/static/css/main.8e4e3521.css",
+    "main.css": "/cadesign/static/css/main.a15be160.css",
     "main.js": "/cadesign/static/js/main.9546939c.js",
     "static/media/logo.png": "/cadesign/static/media/logo.6cd9717c1f50a996b70d.png",
     "static/media/p4.JPG": "/cadesign/static/media/p4.328984e153579d41f50b.JPG",
@@ -15,11 +15,11 @@
     "static/media/instagram.png": "/cadesign/static/media/instagram.cdaae8e9e7cd76e08247.png",
     "static/media/telegram.png": "/cadesign/static/media/telegram.1a2302f29722f7dbcf94.png",
     "index.html": "/cadesign/index.html",
-    "main.8e4e3521.css.map": "/cadesign/static/css/main.8e4e3521.css.map",
+    "main.a15be160.css.map": "/cadesign/static/css/main.a15be160.css.map",
     "main.9546939c.js.map": "/cadesign/static/js/main.9546939c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e4e3521.css",
+    "static/css/main.a15be160.css",
     "static/js/main.9546939c.js"
   ]
 }
