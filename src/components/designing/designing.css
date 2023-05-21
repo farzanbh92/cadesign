@@ -14,6 +14,7 @@
     padding:1vw;
     background-color: rgba(0, 180, 0, 0.8);
     border-radius: 2vw;
+    overflow: auto;
 }
 .d2{
     width:70%;
@@ -26,6 +27,7 @@
     padding:1vw;
     background-color: rgba(0, 180, 0, 0.8);
     border-radius: 2vw;
+    overflow: auto;
 }
 .d2 p{
     font-size: 1vw;
